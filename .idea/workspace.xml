@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f7b9e9c-47c6-4165-ab90-ade50a6c77ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.pipelines/code-quality-template.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.pipelines/code-quality-template.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/diabetes_regression-batchscoring-ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/diabetes_regression-cd.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/diabetes_regression-ci-image.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/diabetes_regression-ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/diabetes_regression-get-model-id-artifact-template.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/diabetes_regression-package-model-template.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/diabetes_regression-publish-model-artifact-template.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/diabetes_regression-variables-template.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pipelines/pr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.pipelines/pr.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/bootstrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/.amlignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/ci_dependencies.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/conda_dependencies.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/conda_dependencies_scorecopy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/conda_dependencies_scoring.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/evaluate/evaluate_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/parameters.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/register/register_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/scoring/deployment_config_aci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/scoring/deployment_config_aks.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/scoring/inference_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/scoring/parallel_batchscore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/scoring/parallel_batchscore_copyoutput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/scoring/score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/scoring/scoreA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/scoring/scoreB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/training/R/r_train.r" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/training/R/train_with_r.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/training/R/train_with_r_on_databricks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/training/R/weight_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/training/test_train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/training/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/training/train_aml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diabetes_regression/util/model_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment_setup/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/environment_setup/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment_setup/install_requirements.sh" beforeDir="false" afterPath="$PROJECT_DIR$/environment_setup/install_requirements.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experimentation/Diabetes Ridge Regression Experimentation Pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experimentation/Diabetes Ridge Regression Experimentation Pipeline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experimentation/Diabetes Ridge Regression Parameter Experimentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experimentation/Diabetes Ridge Regression Parameter Experimentation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_service/pipelines/diabetes_regression_build_parallel_batchscore_pipeline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_service/pipelines/diabetes_regression_build_train_pipeline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_service/pipelines/diabetes_regression_build_train_pipeline_with_r.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_service/pipelines/diabetes_regression_build_train_pipeline_with_r_on_dbricks.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29bLHWKj7HCjDWprhuxnwxjqbr5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f7b9e9c-47c6-4165-ab90-ade50a6c77ba" name="Changes" comment="" />
+      <created>1653376753791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653376753791</updated>
+      <workItem from="1653376765145" duration="7378000" />
+      <workItem from="1653453038898" duration="2000" />
+      <workItem from="1653459044524" duration="10721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
